@@ -11,6 +11,7 @@
 
 [🚀 Demo](https://comic-portal.demo.com) | [📘 Documentation](https://github.com/mehara-rothila/comic-mrr-front/wiki) | [🌟 Backend Repo](https://github.com/mehara-rothila/comic-mrr-backend)
 
+</div>
 
 ## ✨ Features
 
